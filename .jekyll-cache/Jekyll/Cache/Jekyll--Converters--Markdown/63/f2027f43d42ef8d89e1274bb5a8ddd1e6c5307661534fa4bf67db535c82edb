@@ -1,0 +1,18 @@
+I"˜<p>A list of computer science related projects that I have done in the recent years.</p>
+
+<ul class="projects">
+  
+
+    <li itemscope="">
+      <a href="https://ybchen97.github.io/orbiboy" class="project-title">Orbiboy</a>
+      <p class="project-date">
+      <span>May 2019 - Aug 2019 | <a href="https://ybchen97.github.io/orbiboy"><i class="fa fa-link" aria-hidden="true"></i></a> |<a href="https://github.com/ybchen97/orbiboy"><i class="fa fa-github" aria-hidden="true"></i></a>
+      </span>
+      </p>
+      <p class="project-description">Orbiboy is a project about developing a Gameboy emulator that runs on modern web browsers. The emulator is written entirely in C++, and subsequently compiled into WebAssembly via Emscripten to be deployed on our website. This project is done together with Tan Yi Heng as part of a school project under National University of Singapore called Orbital.</p>
+    </li>
+
+  
+</ul>
+
+:ET
