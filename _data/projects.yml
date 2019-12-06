@@ -1,0 +1,7 @@
+- title: Orbiboy
+  url: https://ybchen97.github.io/orbiboy
+  date-start: 2019-05-13
+  date-end: 2019-08-28
+  description: "Orbiboy is a project about developing a Gameboy emulator that runs on modern web browsers. The emulator is written entirely in C++, and subsequently compiled into WebAssembly via Emscripten to be deployed on our website. This project is done together with Tan Yi Heng as part of a school project under National University of Singapore called Orbital."
+  source: https://github.com/ybchen97/orbiboy
+  image: https://ybchen97.github.io/orbiboy/images/screenshot.png
