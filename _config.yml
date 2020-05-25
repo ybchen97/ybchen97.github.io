@@ -25,8 +25,8 @@ description:	       'my reflections & thoughts'
 author:              'Yuan Bo Chen'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
-#feed:
-#  path: rss-feed.xml
+feed:
+  path: rss-feed.xml
 
 # Excluding for Travis CI
 exclude: [vendor]
