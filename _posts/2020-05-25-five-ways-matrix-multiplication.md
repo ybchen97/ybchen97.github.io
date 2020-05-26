@@ -431,8 +431,10 @@ $$
 
 ## 5. Block Matrix Multiplication
 
-The final method of doing matrix multiplications is by doing **block multiplication**. This works as long as the rows
-and columns of each mini-block matches up in the usual matrix multiplication sense:
+The final method of doing matrix multiplications is by doing **block multiplication**. The idea behind this is the same
+as the standard way of doing matrix multiplications except with blocks this time i.e. block row multiplied by block
+columns. This works as long as the rows and columns of each mini-block matches up in the usual matrix multiplication
+sense:
 
 $$
 \left[\begin{array}{@{}c|c@{}}
